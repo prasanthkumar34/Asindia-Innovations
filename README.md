@@ -1,3 +1,6 @@
+This is a calendar application developed using react which is used to mark the free time which is preferred by the user.
+For signin into application i have used google oauth which automatically signed into the application if the user is signed into the google account in tha browser.
+For calendar functionality i have used the package "syncfusion/ej2-react-schedule"
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
